@@ -61,8 +61,8 @@
           ]
         },
         "selector": {
-          "type": "RangeSelector",
-          "t": "11.0,15.0"
+          "type": "PointSelector",
+          "t": "11.0"
         }
       }
     }
