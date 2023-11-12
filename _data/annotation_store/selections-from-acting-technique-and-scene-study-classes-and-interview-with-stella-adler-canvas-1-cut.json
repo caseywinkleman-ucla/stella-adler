@@ -1,0 +1,132 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://caseywinkleman-ucla.github.io/stella-adler/annotations/selections-from-acting-technique-and-scene-study-classes-and-interview-with-stella-adler-canvas-1-cut.json",
+  "type": "AnnotationPage",
+  "label": "Cut",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selections-from-acting-technique-and-scene-study-classes-and-interview-with-stella-adler-canvas-1-cut-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Audience member close-up",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://caseywinkleman-ucla.github.io/stella-adler/selections-from-acting-technique-and-scene-study-classes-and-interview-with-stella-adler/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://norman.hrc.utexas.edu/notDM/objectManifest/p15878coll78v3/15",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "54.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selections-from-acting-technique-and-scene-study-classes-and-interview-with-stella-adler-canvas-1-cut-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker, wide shot",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://caseywinkleman-ucla.github.io/stella-adler/selections-from-acting-technique-and-scene-study-classes-and-interview-with-stella-adler/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://norman.hrc.utexas.edu/notDM/objectManifest/p15878coll78v3/15",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "56.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selections-from-acting-technique-and-scene-study-classes-and-interview-with-stella-adler-canvas-1-cut-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Wide shot, all students raising hands and slowly lowers",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://caseywinkleman-ucla.github.io/stella-adler/selections-from-acting-technique-and-scene-study-classes-and-interview-with-stella-adler/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://norman.hrc.utexas.edu/notDM/objectManifest/p15878coll78v3/15",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "59.0,61.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selections-from-acting-technique-and-scene-study-classes-and-interview-with-stella-adler-canvas-1-cut-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Wide shot, speaker with audience in foreground",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://caseywinkleman-ucla.github.io/stella-adler/selections-from-acting-technique-and-scene-study-classes-and-interview-with-stella-adler/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://norman.hrc.utexas.edu/notDM/objectManifest/p15878coll78v3/15",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "63.0"
+        }
+      }
+    }
+  ]
+}
